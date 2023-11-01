@@ -1,0 +1,104 @@
+
+/* meniu */
+
+body{ background-color: #000000;
+      
+     font-family: 'Sofia', cursive;
+     font-family: 'Work Sans', sans-serif;
+       }
+     
+       .ff{ background-image: url(https://t4.ftcdn.net/jpg/05/28/39/13/240_F_528391353_kCTfDAxRnN2lUe4tQaL0DLaHGhsrth4L.jpg  )  ; 
+        background-color: rgba(2, 2, 2, 0.705)} 
+       
+
+.yuti{width: 1024px;
+margin: auto;}
+
+
+.login{color: #ddda2b;
+text-decoration: none;
+  font-size: 20px;
+  margin-left:500px;
+  margin-top: 100px;
+}
+ 
+
+
+
+
+     .klik3{
+       margin-left: px;
+ 
+}
+ .homdiv{margin-left: 400px; display: flex;}
+.klik1{text-decoration: none; 
+        color: #fbff00;;
+      font-size: 30px;
+        margin-left:40px
+        
+}
+.klik2{text-decoration: none;
+         color: #fffb00;
+         text-align: center;
+        line-height: 70px;
+         margin-left: 300px; 
+        font-size: 30px;
+         margin-left: 40px;
+        
+      }
+
+.klik{font-weight: 200px;
+          color: #f7bd00;
+          
+          font-size: 80px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: 70px; 
+         }
+
+
+.audi{color: #eaee00;
+font-size: 30px;
+text-decoration: none;
+;}
+
+  
+
+
+.h1{color: #000000;}
+
+@media (min-width: 320px) and (max-width: 767px) {
+ .homdiv1{
+   display: block;
+  }
+  .foto {
+   display: none;
+  }
+  .mmm {
+   display: none;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .homdiv1{
+    display: none;
+  }
+  .foto {
+  display: block;
+ }
+ .mmm {
+  display: none;
+ }
+
+}
+
+@media (min-width: 1024px) {
+  .homdiv1{
+  display: none;
+}
+.foto {
+display: none;
+}
+.mmm {
+display: block;
+}
+}

@@ -1,0 +1,83 @@
+
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/03/36/58/70/240_F_336587050_P4Nt6a7QHVmtqSly6VOGDXGhdoZIwL3B.jpg);
+
+    font-family: 'Sofia', cursive;
+    font-family: 'Work Sans', sans-serif;
+      }
+    
+      .ff{ background-image: url(https://t4.ftcdn.net/jpg/05/28/39/13/240_F_528391353_kCTfDAxRnN2lUe4tQaL0DLaHGhsrth4L.jpg  )  ; 
+       background-color: rgba(2, 2, 2, 0.705)} 
+      
+.bmw1{width: 1024;
+margin: auto;}
+
+
+.login{color: #ddda2b;
+text-decoration: none;
+ font-size: 20px;
+ margin-left:500px;
+ margin-top: 100px;
+}
+
+
+
+
+
+    .klik3{
+      margin-left: px;
+
+}
+.homdiv{margin-left: 400px; display: flex;}
+.klik1{text-decoration: none; 
+       color: #fbff00;;
+     font-size: 30px;
+       margin-left:40px
+       
+}
+.klik2{text-decoration: none;
+        color: #fffb00;
+        text-align: center;
+       line-height: 70px;
+        margin-left: 300px; 
+       font-size: 30px;
+        margin-left: 40px;
+       
+     }
+
+.klik{font-weight: 200px;
+         color: #f7bd00;
+         
+         font-size: 80px;
+         font-style: normal;
+         font-weight: 700;
+         line-height: 70px; 
+        }
+
+
+.audi{color: #eaee00;
+font-size: 30px;
+text-decoration: none;
+;}
+
+ 
+
+
+.texst1{color: #fffafa;
+margin-left: 20px;
+margin-top: 30px;}
+
+.foto1{margin-top:30px;
+display: flex;
+margin-left: 1px;
+}
+
+.foto1{display: flex;
+color: #fffafa;
+margin-left:20px ;
+margin-top: 40px;}
+
+.m60{margin-top: 30px; display: flex;}
+
+.m5{margin-top: 30px;
+}
